@@ -1,5 +1,9 @@
 Ingredients:
+<<<<<<< HEAD
 * 1.5 tsp chilantro
+=======
+* 0.5 tsp chilantro
+>>>>>>> dislike-cilantro
 * 2 avocados
 * 1 lime
 * 1 tsp salt
